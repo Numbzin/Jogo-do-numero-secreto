@@ -7,6 +7,7 @@ O botão de reinício é habilitado após o acerto, permitindo que o jogador ini
 -----
 
 Funcionalidades Principais:
+
 • Geração aleatória do número secreto, evitando repetições.
 
 • Exibição de mensagens informativas ao usuário.
